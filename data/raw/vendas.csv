@@ -1,0 +1,51 @@
+data,produto,quantidade,valor,status,cliente
+2026-01-08,quibusdam,5,253.65,CANCEL,Juan Castro
+2026-01-06,corrupti,10,445.86,cancelado,Ravi Ramos
+2026-01-10,sint,1,206.02,CANCEL,Catarina Campos
+2026-01-10,quia,1,396.83,CANC,Juliana Albuquerque
+2026-01-02,vel,2,224.92,CANCEL,Manuella Barbosa
+2026-01-07,molestiae,9,403.31,cancelado,Sra. Ágatha da Rosa
+2026-01-11,sit,3,469.12,ok,Sarah Câmara
+2026-01-02,assumenda,1,471.51,CANCEL,Luiz Fernando Barbosa
+2026-01-09,placeat,6,277.59,CANC,Maria Eduarda Cavalcanti
+2026-01-02,occaecati,6,191.89,CANC,Pietra Duarte
+2026-01-03,ipsam,2,230.13,CANCEL,Srta. Clara Cassiano
+2026-01-07,dolor,8,30.25,ok,Benjamim Peixoto
+2026-01-05,aliquid,1,386.13,ok,Vinicius Cassiano
+2026-01-07,nemo,3,423.6,ok,Joana Castro
+2026-01-11,voluptatem,4,13.55,cancelado,Benjamim Cunha
+2026-01-06,quidem,4,135.64,CANCEL,Srta. Natália da Paz
+2026-01-07,occaecati,4,156.64,ok,Sr. Juan Farias
+2026-01-03,veritatis,5,184.54,cancelado,Léo Vargas
+2026-01-10,explicabo,6,181.49,cancelado,Srta. Maria Cecília Machado
+2026-01-05,asperiores,6,214.94,CANCEL,Francisco Borges
+2026-01-05,voluptas,6,166.99,CANC,Bianca Barros
+2026-01-05,sequi,4,433.93,CANCEL,Guilherme Pastor
+2026-01-10,commodi,8,122.63,ok,Alexandre Duarte
+2026-01-06,rem,1,449.97,cancelado,José Fonseca
+2026-01-11,sed,8,123.95,CANC,Ana Júlia Nunes
+2026-01-10,odit,4,41.41,CANC,Ana Cecília Gomes
+2026-01-11,distinctio,7,177.65,ok,Gabrielly Borges
+2026-01-04,adipisci,4,424.0,cancelado,Maria Julia da Paz
+2026-01-01,expedita,5,194.68,ok,Aylla Vasconcelos
+2026-01-06,impedit,8,173.48,cancelado,Igor Silva
+2026-01-01,molestiae,5,328.67,ok,Maria Alice Lima
+2026-01-07,eius,5,183.24,ok,Maysa Lopes
+2026-01-11,nobis,5,491.34,CANC,Dra. Ester Martins
+2026-01-01,eos,10,370.48,CANCEL,Eloá Alves
+2026-01-06,necessitatibus,5,187.33,CANCEL,Ian Almeida
+2026-01-05,odio,5,389.1,CANC,Samuel Pastor
+2026-01-07,veniam,7,32.98,cancelado,Rafael Silva
+2026-01-06,a,7,69.14,ok,Giovanna Marques
+2026-01-09,soluta,3,354.54,cancelado,Sra. Luana Viana
+2026-01-09,vitae,4,458.47,cancelado,Sarah Santos
+2026-01-09,alias,9,144.94,CANCEL,Yago da Mota
+2026-01-10,facilis,5,194.98,cancelado,Miguel Costa
+2026-01-08,excepturi,3,175.69,CANC,Bruno Barros
+2026-01-10,quos,8,397.08,CANC,Melissa Rodrigues
+2026-01-06,odio,2,321.22,CANC,Daniel Lima
+2026-01-04,excepturi,3,286.43,ok,Sabrina Caldeira
+2026-01-10,id,7,319.27,cancelado,Sra. Evelyn da Cunha
+2026-01-07,aliquam,6,373.94,ok,Isabel Freitas
+2026-01-09,quis,10,15.07,CANCEL,Maya Rezende
+2026-01-09,hic,7,19.52,CANC,Luigi Costela
