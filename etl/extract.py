@@ -9,4 +9,3 @@ vendas = pd.read_csv(RAW_DIR / "vendas.csv")
 clientes = pd.read_csv(RAW_DIR / "clientes.csv")
 produtos = pd.read_csv(RAW_DIR / "produtos.csv")
 
-print(vendas.head())

@@ -1,51 +1,51 @@
 data,produto,quantidade,valor,status,cliente
-2026-01-08,quibusdam,5,253.65,CANCEL,Juan Castro
-2026-01-06,corrupti,10,445.86,cancelado,Ravi Ramos
-2026-01-10,sint,1,206.02,CANCEL,Catarina Campos
-2026-01-10,quia,1,396.83,CANC,Juliana Albuquerque
-2026-01-02,vel,2,224.92,CANCEL,Manuella Barbosa
-2026-01-07,molestiae,9,403.31,cancelado,Sra. Ágatha da Rosa
-2026-01-11,sit,3,469.12,ok,Sarah Câmara
-2026-01-02,assumenda,1,471.51,CANCEL,Luiz Fernando Barbosa
-2026-01-09,placeat,6,277.59,CANC,Maria Eduarda Cavalcanti
-2026-01-02,occaecati,6,191.89,CANC,Pietra Duarte
-2026-01-03,ipsam,2,230.13,CANCEL,Srta. Clara Cassiano
-2026-01-07,dolor,8,30.25,ok,Benjamim Peixoto
-2026-01-05,aliquid,1,386.13,ok,Vinicius Cassiano
-2026-01-07,nemo,3,423.6,ok,Joana Castro
-2026-01-11,voluptatem,4,13.55,cancelado,Benjamim Cunha
-2026-01-06,quidem,4,135.64,CANCEL,Srta. Natália da Paz
-2026-01-07,occaecati,4,156.64,ok,Sr. Juan Farias
-2026-01-03,veritatis,5,184.54,cancelado,Léo Vargas
-2026-01-10,explicabo,6,181.49,cancelado,Srta. Maria Cecília Machado
-2026-01-05,asperiores,6,214.94,CANCEL,Francisco Borges
-2026-01-05,voluptas,6,166.99,CANC,Bianca Barros
-2026-01-05,sequi,4,433.93,CANCEL,Guilherme Pastor
-2026-01-10,commodi,8,122.63,ok,Alexandre Duarte
-2026-01-06,rem,1,449.97,cancelado,José Fonseca
-2026-01-11,sed,8,123.95,CANC,Ana Júlia Nunes
-2026-01-10,odit,4,41.41,CANC,Ana Cecília Gomes
-2026-01-11,distinctio,7,177.65,ok,Gabrielly Borges
-2026-01-04,adipisci,4,424.0,cancelado,Maria Julia da Paz
-2026-01-01,expedita,5,194.68,ok,Aylla Vasconcelos
-2026-01-06,impedit,8,173.48,cancelado,Igor Silva
-2026-01-01,molestiae,5,328.67,ok,Maria Alice Lima
-2026-01-07,eius,5,183.24,ok,Maysa Lopes
-2026-01-11,nobis,5,491.34,CANC,Dra. Ester Martins
-2026-01-01,eos,10,370.48,CANCEL,Eloá Alves
-2026-01-06,necessitatibus,5,187.33,CANCEL,Ian Almeida
-2026-01-05,odio,5,389.1,CANC,Samuel Pastor
-2026-01-07,veniam,7,32.98,cancelado,Rafael Silva
-2026-01-06,a,7,69.14,ok,Giovanna Marques
-2026-01-09,soluta,3,354.54,cancelado,Sra. Luana Viana
-2026-01-09,vitae,4,458.47,cancelado,Sarah Santos
-2026-01-09,alias,9,144.94,CANCEL,Yago da Mota
-2026-01-10,facilis,5,194.98,cancelado,Miguel Costa
-2026-01-08,excepturi,3,175.69,CANC,Bruno Barros
-2026-01-10,quos,8,397.08,CANC,Melissa Rodrigues
-2026-01-06,odio,2,321.22,CANC,Daniel Lima
-2026-01-04,excepturi,3,286.43,ok,Sabrina Caldeira
-2026-01-10,id,7,319.27,cancelado,Sra. Evelyn da Cunha
-2026-01-07,aliquam,6,373.94,ok,Isabel Freitas
-2026-01-09,quis,10,15.07,CANCEL,Maya Rezende
-2026-01-09,hic,7,19.52,CANC,Luigi Costela
+2026-01-26,Notebook,8,141.59,ok,Marcelo Marques
+2026-01-03,Leite,1,466.03,CANC,Bárbara Araújo
+2026-01-20,Monitor,8,210.25,CANC,Zoe Gonçalves
+2026-01-25,Notebook,10,43.4,cancelado,João Guilherme Fernandes
+2026-01-26,Boné,5,134.83,CANC,Arthur Costela
+2026-01-27,Monitor,2,84.31,cancelado,Ágatha Moura
+2026-01-18,Tablet,2,12.89,ok,Melina Sousa
+2026-01-14,Notebook,1,251.43,CANC,Marcelo Teixeira
+2026-01-14,Smartphone,8,102.41,ok,Nina Aparecida
+2026-01-07,Smartphone,2,63.46,CANCEL,Maria Helena Viana
+2026-01-26,Smartphone,3,241.4,cancelado,Manuela Ramos
+2026-01-07,Monitor,9,23.23,cancelado,Maya da Luz
+2026-01-06,Café,9,294.59,cancelado,Nicolas Jesus
+2026-01-16,Leite,6,129.54,CANCEL,Vitória Sampaio
+2026-01-06,Smartphone,6,92.65,ok,Melissa da Cruz
+2026-01-21,Calça jeans,9,348.34,ok,Heloísa Souza
+2026-01-06,Monitor,6,32.1,CANC,Noah Monteiro
+2026-01-16,Tablet,8,245.28,CANCEL,Esther Brito
+2026-01-16,Monitor,7,32.24,ok,Caleb Pastor
+2026-01-27,Leite,10,68.54,CANC,Lavínia Viana
+2026-01-20,Caixa de som,9,127.25,cancelado,Sr. Rafael Pinto
+2026-01-10,Monitor,6,327.59,CANCEL,Bruno Brito
+2026-01-23,Boné,6,301.23,CANCEL,Nathan da Mota
+2026-01-05,Smartphone,2,343.25,cancelado,Dr. Oliver Sá
+2026-01-26,Leite,3,208.4,cancelado,Luigi da Rocha
+2026-01-06,Boné,4,412.74,cancelado,Lorenzo Nascimento
+2026-01-26,Notebook,8,320.46,CANCEL,João Pedro da Paz
+2026-01-01,Tablet,1,291.67,ok,Maria Liz Barbosa
+2026-01-19,Smartphone,1,453.16,CANCEL,Liz Cirino
+2026-01-06,Boné,5,418.05,CANC,Bárbara da Rosa
+2026-01-17,Smartphone,7,239.12,cancelado,Fernando Gonçalves
+2026-01-18,Boné,2,491.93,CANC,Dr. Juan Brito
+2026-01-06,Monitor,7,142.19,CANCEL,Laís Barbosa
+2026-01-16,Monitor,8,110.8,ok,Guilherme Souza
+2026-01-06,Smartphone,4,140.85,cancelado,Bruno da Mata
+2026-01-11,Monitor,10,445.64,cancelado,Lunna Costa
+2026-01-15,Caixa de som,6,83.69,cancelado,Dra. Milena Pimenta
+2026-01-08,Óleo de soja,5,435.5,ok,Isaac da Cruz
+2026-01-25,Monitor,6,285.44,CANC,Luana Fogaça
+2026-01-18,Smartphone,3,420.89,CANCEL,Guilherme Cavalcante
+2026-01-06,Caixa de som,8,39.47,CANC,Erick Guerra
+2026-01-07,Notebook,10,213.91,cancelado,Luísa Camargo
+2026-01-26,Monitor,9,108.07,CANC,Maria Sophia Melo
+2026-01-11,Notebook,4,284.97,ok,Mariane Cunha
+2026-01-07,Smartphone,6,438.77,CANC,Renan Cassiano
+2026-01-12,Café,9,300.37,CANC,Maria Isis Azevedo
+2026-01-04,Frango,2,33.81,ok,Luan Pires
+2026-01-11,Calça jeans,7,298.0,CANC,Luiza Peixoto
+2026-01-18,Tablet,3,220.96,CANC,João Miguel Brito
+2026-01-07,Boné,7,100.64,cancelado,Maria Cecília Costela
