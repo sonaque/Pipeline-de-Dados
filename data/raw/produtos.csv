@@ -1,16 +1,16 @@
 id,nome,categoria,preco_base,custo
-48798906-ae18-4ed9-aede-9b58ea01947c,Frango,Alimentos,1904.66,965.32
-b9a649fc-08a5-47dc-8983-52453999e46a,Boné,Moda,748.9,390.09
-123c1562-8d02-49fb-984e-d7abd321c19e,Monitor,Eletronic,595.13,110.72
-89dc4926-722e-49e0-9d5a-30153a325a6e,Monitor,Eletrônicos,319.44,284.26
-617a9759-a7d1-485d-9c50-abb6f1495344,Monitor,Eletrônicos,754.97,636.96
-31630a6b-f908-44af-9ab8-28e005c65ae5,Calça jeans,Moda,695.64,112.98
-57f520fd-127e-40cb-80ad-54618abe1d37,Smartphone,Eletrônicos,718.98,87.81
-e093d3c1-fafb-4b60-b542-b99e176379f5,Óleo de soja,Alimentos,1108.94,851.85
-6cbeea28-d616-4fbc-be3b-e5c5ce5addbe,Tablet,Eletrônicos,194.56,47.2
-989948e1-f847-4ffb-b130-e9e15a8ab0ec,Smartphone,Eletrônicos,1073.85,395.45
-1fe12700-7e6b-4396-9809-d42b16d40478,Café,Alimentos,834.74,673.35
-98788ca2-ae7d-4ad2-a9c8-56eaee66b509,Caixa de som,Eletrônicos,646.59,345.16
-788257aa-4739-4e77-953c-b809622193ca,Leite,Alimentos,710.34,575.59
-0acee602-8379-40f8-9ee3-dcef750945a7,Notebook,Eletrônicos,84.44,66.47
-bc7aa474-c220-4c88-8c9c-b005a840f5ba,Smartphone,Eletrônicos,519.13,54.06
+95559930-aab0-4da6-8eb7-5846d5e06eb0,Fone de ouvido,Eletrônicos,718.75,485.55
+961abed3-eea1-4ad5-b29d-8343104e93a1,Console de videogame,Eletronic,319.81,81.92
+45e3ae39-eef9-4cd0-90da-fe9555af55a8,Arroz,Alimentos,988.09,885.35
+bc080352-573e-4924-a863-3c00227dfe1a,Impressora,Eletrônicos,996.34,268.34
+5f1ae9f3-6165-40a8-8ccc-be2c6829bc93,Vestido,Moda,1099.94,583.61
+244ff7bb-bebd-4609-89d7-e3c3d028f2e4,Leite,Alimentos,931.28,315.83
+a5b7fcf2-de42-4c44-a050-d2a874695dc5,Smartwatch,Eletrônicos,555.61,103.05
+81834903-5c84-4f93-9f80-74fc683aebd3,Fone de ouvido,Eletronic,1959.78,1697.67
+bad1e9b3-44b8-444e-bb5d-c73b7d35eff5,Tênis,Moda,1535.31,119.16
+2d00dd9e-1ffe-48b1-97e9-620722501e1f,Monitor,Eletronic,1933.59,1382.06
+2583d6dd-7e03-41b0-ab1e-12a49c0c02da,Televisão,Eletrônicos,1741.41,298.45
+28f20633-2b9e-4843-8563-44de12762cdc,Saia,Moda,1872.19,1255.49
+ffb929a0-89a6-4922-9a25-55e51c9f44fb,Console de videogame,Eletronic,1251.71,428.49
+67f63c86-7363-48b2-9e12-fb4bde3e9153,Arroz,Alimentos,775.46,601.39
+e1c294a0-521f-4796-a654-1f302bb61b13,Console de videogame,Eletronic,1162.54,369.77

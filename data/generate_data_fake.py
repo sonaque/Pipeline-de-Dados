@@ -18,10 +18,12 @@ clientes = []
 for _ in range(20):
     clientes.append({
         "id": fake.uuid4(),
+        "nome": fake.name(),
         "cidade": fake.city(),
         "estado": random.choice(["SP", "São Paulo", "S.P.", "RJ", "Rio de Janeiro"]),
         "data_cadastro": fake.date_between(start_date = "-2y", end_date = "today"),
     })
+
 
 df_clientes = pd.DataFrame(clientes)
 df_clientes.to_csv(RAW_DIR / "clientes.csv", index=False)
@@ -60,18 +62,23 @@ df_produtos.to_csv(RAW_DIR / "produtos.csv", index=False)
 
 vendas = []
 
-nomes_produtos = [p["nome"] for p in produtos]
 
 for _ in range(50):
-    produto_nome = random.choice(nomes_produtos)
+    produto = random.choice(produtos)
+    cliente = random.choice(clientes)
+
     vendas.append({
         "data": fake.date_this_year(),
-        "produto": produto_nome,
+        "produto": produto["nome"],
+        "produto_id": produto["id"],
         "quantidade": random.randint(1, 10),
         "valor": round(random.uniform(10, 500), 2),
         "status": random.choice(["ok", "cancelado", "CANC", "CANCEL"]),
-        "cliente": fake.name(),
+        "cliente_id": cliente["id"],
+        "cliente_nome": cliente["nome"]
     })
+
+
 
 df_vendas = pd.DataFrame(vendas)
 df_vendas.to_csv(RAW_DIR / "vendas.csv", index=False)

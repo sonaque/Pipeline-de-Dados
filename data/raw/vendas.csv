@@ -1,51 +1,51 @@
-data,produto,quantidade,valor,status,cliente
-2026-01-26,Notebook,8,141.59,ok,Marcelo Marques
-2026-01-03,Leite,1,466.03,CANC,Bárbara Araújo
-2026-01-20,Monitor,8,210.25,CANC,Zoe Gonçalves
-2026-01-25,Notebook,10,43.4,cancelado,João Guilherme Fernandes
-2026-01-26,Boné,5,134.83,CANC,Arthur Costela
-2026-01-27,Monitor,2,84.31,cancelado,Ágatha Moura
-2026-01-18,Tablet,2,12.89,ok,Melina Sousa
-2026-01-14,Notebook,1,251.43,CANC,Marcelo Teixeira
-2026-01-14,Smartphone,8,102.41,ok,Nina Aparecida
-2026-01-07,Smartphone,2,63.46,CANCEL,Maria Helena Viana
-2026-01-26,Smartphone,3,241.4,cancelado,Manuela Ramos
-2026-01-07,Monitor,9,23.23,cancelado,Maya da Luz
-2026-01-06,Café,9,294.59,cancelado,Nicolas Jesus
-2026-01-16,Leite,6,129.54,CANCEL,Vitória Sampaio
-2026-01-06,Smartphone,6,92.65,ok,Melissa da Cruz
-2026-01-21,Calça jeans,9,348.34,ok,Heloísa Souza
-2026-01-06,Monitor,6,32.1,CANC,Noah Monteiro
-2026-01-16,Tablet,8,245.28,CANCEL,Esther Brito
-2026-01-16,Monitor,7,32.24,ok,Caleb Pastor
-2026-01-27,Leite,10,68.54,CANC,Lavínia Viana
-2026-01-20,Caixa de som,9,127.25,cancelado,Sr. Rafael Pinto
-2026-01-10,Monitor,6,327.59,CANCEL,Bruno Brito
-2026-01-23,Boné,6,301.23,CANCEL,Nathan da Mota
-2026-01-05,Smartphone,2,343.25,cancelado,Dr. Oliver Sá
-2026-01-26,Leite,3,208.4,cancelado,Luigi da Rocha
-2026-01-06,Boné,4,412.74,cancelado,Lorenzo Nascimento
-2026-01-26,Notebook,8,320.46,CANCEL,João Pedro da Paz
-2026-01-01,Tablet,1,291.67,ok,Maria Liz Barbosa
-2026-01-19,Smartphone,1,453.16,CANCEL,Liz Cirino
-2026-01-06,Boné,5,418.05,CANC,Bárbara da Rosa
-2026-01-17,Smartphone,7,239.12,cancelado,Fernando Gonçalves
-2026-01-18,Boné,2,491.93,CANC,Dr. Juan Brito
-2026-01-06,Monitor,7,142.19,CANCEL,Laís Barbosa
-2026-01-16,Monitor,8,110.8,ok,Guilherme Souza
-2026-01-06,Smartphone,4,140.85,cancelado,Bruno da Mata
-2026-01-11,Monitor,10,445.64,cancelado,Lunna Costa
-2026-01-15,Caixa de som,6,83.69,cancelado,Dra. Milena Pimenta
-2026-01-08,Óleo de soja,5,435.5,ok,Isaac da Cruz
-2026-01-25,Monitor,6,285.44,CANC,Luana Fogaça
-2026-01-18,Smartphone,3,420.89,CANCEL,Guilherme Cavalcante
-2026-01-06,Caixa de som,8,39.47,CANC,Erick Guerra
-2026-01-07,Notebook,10,213.91,cancelado,Luísa Camargo
-2026-01-26,Monitor,9,108.07,CANC,Maria Sophia Melo
-2026-01-11,Notebook,4,284.97,ok,Mariane Cunha
-2026-01-07,Smartphone,6,438.77,CANC,Renan Cassiano
-2026-01-12,Café,9,300.37,CANC,Maria Isis Azevedo
-2026-01-04,Frango,2,33.81,ok,Luan Pires
-2026-01-11,Calça jeans,7,298.0,CANC,Luiza Peixoto
-2026-01-18,Tablet,3,220.96,CANC,João Miguel Brito
-2026-01-07,Boné,7,100.64,cancelado,Maria Cecília Costela
+data,produto,produto_id,quantidade,valor,status,cliente_id,cliente_nome
+2026-01-12,Vestido,5f1ae9f3-6165-40a8-8ccc-be2c6829bc93,6,42.55,ok,a5685e3a-35a7-459c-a88f-35c5128aa8bb,Sra. Milena Silva
+2026-01-27,Saia,28f20633-2b9e-4843-8563-44de12762cdc,6,82.32,cancelado,0a1eea67-7e1c-4db2-9ccd-4c0bb0fedda7,Valentina Gonçalves
+2026-01-25,Leite,244ff7bb-bebd-4609-89d7-e3c3d028f2e4,5,46.36,cancelado,a5685e3a-35a7-459c-a88f-35c5128aa8bb,Sra. Milena Silva
+2026-01-21,Console de videogame,961abed3-eea1-4ad5-b29d-8343104e93a1,6,332.05,ok,559ba63e-f5ed-4d36-8dbd-635ec51c46f1,Otto Rodrigues
+2026-01-08,Console de videogame,961abed3-eea1-4ad5-b29d-8343104e93a1,3,117.64,ok,ef27dc22-bd37-47b5-949a-30e6602c4b2f,Sr. Arthur Miguel Silva
+2026-01-23,Fone de ouvido,95559930-aab0-4da6-8eb7-5846d5e06eb0,7,305.42,cancelado,440b54d4-b216-4d50-acd2-eb486716f110,Isabella da Costa
+2026-02-07,Arroz,67f63c86-7363-48b2-9e12-fb4bde3e9153,3,56.03,ok,3d9133e0-9bd0-4a3d-a256-b2126b2bbb66,Lavínia Monteiro
+2026-01-13,Televisão,2583d6dd-7e03-41b0-ab1e-12a49c0c02da,2,380.28,ok,2ece9fe3-88ec-4bd3-b574-f8b202f35597,Srta. Ayla Melo
+2026-02-06,Arroz,67f63c86-7363-48b2-9e12-fb4bde3e9153,8,453.59,cancelado,2bdb8786-97e6-4ace-bb0a-cbd33a0f94ed,Lorena Sousa
+2026-01-26,Smartwatch,a5b7fcf2-de42-4c44-a050-d2a874695dc5,2,34.41,CANCEL,3c9ec82a-5511-4c27-be6d-aa03a0d1ec94,Maria Julia Ramos
+2026-01-29,Console de videogame,ffb929a0-89a6-4922-9a25-55e51c9f44fb,9,131.57,CANCEL,9e8487db-81c2-4406-9568-5967d1828a4c,Sr. Marcos Vinicius Mendonça
+2026-01-18,Monitor,2d00dd9e-1ffe-48b1-97e9-620722501e1f,6,364.87,CANC,0a1eea67-7e1c-4db2-9ccd-4c0bb0fedda7,Valentina Gonçalves
+2026-02-04,Arroz,67f63c86-7363-48b2-9e12-fb4bde3e9153,2,60.21,CANCEL,2ece9fe3-88ec-4bd3-b574-f8b202f35597,Srta. Ayla Melo
+2026-01-28,Monitor,2d00dd9e-1ffe-48b1-97e9-620722501e1f,2,318.41,CANC,3a9eab35-cabc-46b8-981d-07609fae7755,Luiz Felipe da Mata
+2026-01-24,Console de videogame,ffb929a0-89a6-4922-9a25-55e51c9f44fb,5,80.16,cancelado,440b54d4-b216-4d50-acd2-eb486716f110,Isabella da Costa
+2026-02-01,Vestido,5f1ae9f3-6165-40a8-8ccc-be2c6829bc93,7,313.48,ok,490e684c-6b05-4f0e-b704-183861dd8e02,Pedro Lucas da Conceição
+2026-02-02,Console de videogame,ffb929a0-89a6-4922-9a25-55e51c9f44fb,6,61.28,ok,440b54d4-b216-4d50-acd2-eb486716f110,Isabella da Costa
+2026-01-10,Impressora,bc080352-573e-4924-a863-3c00227dfe1a,7,488.26,cancelado,35fb1dcb-2986-4167-8515-5c3ec725d8d9,Ana Júlia Costa
+2026-01-29,Smartwatch,a5b7fcf2-de42-4c44-a050-d2a874695dc5,5,75.27,ok,3d9133e0-9bd0-4a3d-a256-b2126b2bbb66,Lavínia Monteiro
+2026-01-03,Monitor,2d00dd9e-1ffe-48b1-97e9-620722501e1f,6,347.32,cancelado,f3171b2d-c365-4fba-9b03-eec228ed0ca3,Dra. Maria Helena Fogaça
+2026-01-05,Monitor,2d00dd9e-1ffe-48b1-97e9-620722501e1f,3,227.22,CANC,7ebfc275-a36a-479b-b7eb-02b7718eec26,Dr. João Felipe Moraes
+2026-02-05,Leite,244ff7bb-bebd-4609-89d7-e3c3d028f2e4,9,252.14,CANCEL,3a9eab35-cabc-46b8-981d-07609fae7755,Luiz Felipe da Mata
+2026-01-28,Tênis,bad1e9b3-44b8-444e-bb5d-c73b7d35eff5,10,184.12,CANCEL,d7120912-f492-44aa-9c27-1cd046a847f3,Sr. Davi da Conceição
+2026-01-14,Leite,244ff7bb-bebd-4609-89d7-e3c3d028f2e4,9,483.83,ok,490e684c-6b05-4f0e-b704-183861dd8e02,Pedro Lucas da Conceição
+2026-01-06,Fone de ouvido,81834903-5c84-4f93-9f80-74fc683aebd3,2,168.62,CANC,2ece9fe3-88ec-4bd3-b574-f8b202f35597,Srta. Ayla Melo
+2026-01-16,Leite,244ff7bb-bebd-4609-89d7-e3c3d028f2e4,5,285.91,ok,2bdb8786-97e6-4ace-bb0a-cbd33a0f94ed,Lorena Sousa
+2026-01-27,Televisão,2583d6dd-7e03-41b0-ab1e-12a49c0c02da,10,87.0,CANCEL,440b54d4-b216-4d50-acd2-eb486716f110,Isabella da Costa
+2026-02-05,Fone de ouvido,95559930-aab0-4da6-8eb7-5846d5e06eb0,6,128.97,cancelado,7ebfc275-a36a-479b-b7eb-02b7718eec26,Dr. João Felipe Moraes
+2026-01-20,Fone de ouvido,95559930-aab0-4da6-8eb7-5846d5e06eb0,8,285.97,ok,490e684c-6b05-4f0e-b704-183861dd8e02,Pedro Lucas da Conceição
+2026-01-25,Tênis,bad1e9b3-44b8-444e-bb5d-c73b7d35eff5,3,372.33,ok,ef27dc22-bd37-47b5-949a-30e6602c4b2f,Sr. Arthur Miguel Silva
+2026-01-16,Console de videogame,ffb929a0-89a6-4922-9a25-55e51c9f44fb,8,119.41,CANC,7ebfc275-a36a-479b-b7eb-02b7718eec26,Dr. João Felipe Moraes
+2026-02-01,Console de videogame,961abed3-eea1-4ad5-b29d-8343104e93a1,1,62.94,ok,0049beda-9762-44d8-879d-f65d0e7e95a5,Joana Camargo
+2026-01-25,Console de videogame,ffb929a0-89a6-4922-9a25-55e51c9f44fb,2,327.38,cancelado,2ece9fe3-88ec-4bd3-b574-f8b202f35597,Srta. Ayla Melo
+2026-01-06,Impressora,bc080352-573e-4924-a863-3c00227dfe1a,2,267.81,cancelado,a5685e3a-35a7-459c-a88f-35c5128aa8bb,Sra. Milena Silva
+2026-02-05,Televisão,2583d6dd-7e03-41b0-ab1e-12a49c0c02da,3,396.68,CANCEL,0049beda-9762-44d8-879d-f65d0e7e95a5,Joana Camargo
+2026-01-04,Fone de ouvido,95559930-aab0-4da6-8eb7-5846d5e06eb0,4,132.89,CANCEL,0a1eea67-7e1c-4db2-9ccd-4c0bb0fedda7,Valentina Gonçalves
+2026-01-28,Console de videogame,ffb929a0-89a6-4922-9a25-55e51c9f44fb,6,168.5,cancelado,2bdb8786-97e6-4ace-bb0a-cbd33a0f94ed,Lorena Sousa
+2026-01-05,Saia,28f20633-2b9e-4843-8563-44de12762cdc,1,72.37,CANC,0a1eea67-7e1c-4db2-9ccd-4c0bb0fedda7,Valentina Gonçalves
+2026-01-25,Console de videogame,961abed3-eea1-4ad5-b29d-8343104e93a1,2,253.86,ok,f3171b2d-c365-4fba-9b03-eec228ed0ca3,Dra. Maria Helena Fogaça
+2026-01-28,Arroz,45e3ae39-eef9-4cd0-90da-fe9555af55a8,4,86.33,cancelado,9e8487db-81c2-4406-9568-5967d1828a4c,Sr. Marcos Vinicius Mendonça
+2026-02-08,Leite,244ff7bb-bebd-4609-89d7-e3c3d028f2e4,8,402.65,CANCEL,559ba63e-f5ed-4d36-8dbd-635ec51c46f1,Otto Rodrigues
+2026-01-15,Fone de ouvido,95559930-aab0-4da6-8eb7-5846d5e06eb0,5,65.22,cancelado,3a9eab35-cabc-46b8-981d-07609fae7755,Luiz Felipe da Mata
+2026-01-19,Televisão,2583d6dd-7e03-41b0-ab1e-12a49c0c02da,10,119.89,cancelado,3d9133e0-9bd0-4a3d-a256-b2126b2bbb66,Lavínia Monteiro
+2026-01-08,Smartwatch,a5b7fcf2-de42-4c44-a050-d2a874695dc5,8,360.36,ok,0a1eea67-7e1c-4db2-9ccd-4c0bb0fedda7,Valentina Gonçalves
+2026-01-30,Console de videogame,e1c294a0-521f-4796-a654-1f302bb61b13,10,322.71,ok,440b54d4-b216-4d50-acd2-eb486716f110,Isabella da Costa
+2026-01-15,Smartwatch,a5b7fcf2-de42-4c44-a050-d2a874695dc5,8,226.58,ok,f3171b2d-c365-4fba-9b03-eec228ed0ca3,Dra. Maria Helena Fogaça
+2026-01-17,Monitor,2d00dd9e-1ffe-48b1-97e9-620722501e1f,9,129.13,ok,0a1eea67-7e1c-4db2-9ccd-4c0bb0fedda7,Valentina Gonçalves
+2026-02-05,Televisão,2583d6dd-7e03-41b0-ab1e-12a49c0c02da,7,230.63,CANCEL,b236ffbe-1620-4474-b5ef-d6dc12daaacb,Mateus Montenegro
+2026-02-06,Monitor,2d00dd9e-1ffe-48b1-97e9-620722501e1f,10,28.01,CANC,a5685e3a-35a7-459c-a88f-35c5128aa8bb,Sra. Milena Silva
+2026-02-07,Vestido,5f1ae9f3-6165-40a8-8ccc-be2c6829bc93,1,476.56,CANC,440b54d4-b216-4d50-acd2-eb486716f110,Isabella da Costa
