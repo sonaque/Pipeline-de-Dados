@@ -5,17 +5,15 @@ Este projeto implementa um pipeline de dados end-to-end para simular o cenário 
 O objetivo é demonstrar competências em engenharia de dados e programação, cobrindo desde a ingestão até o consumo dos dados via API e dashboards.
 
 🎯 Objetivos do Projeto
-Centralizar dados de múltiplas fontes (CSV + API).
+Centralizar dados de múltiplas fontes criadas(CSV).
 
 Tratar inconsistências e aplicar regras de negócio.
 
 Modelar banco de dados relacional para análise.
 
-Disponibilizar métricas via API (FastAPI).
-
 Criar dashboard interativo (Power BI).
 
-Automatizar e organizar o fluxo (logs, versionamento, Docker).
+Automatizar e organizar o fluxo (Docker).
 
 🧠 Problema de Negócio (Fictício)
 A empresa vende produtos online, mas os dados chegam de fontes diferentes, com erros e sem padronização.
@@ -26,30 +24,23 @@ mermaid
 flowchart LR
     A[Fontes de Dados] --> B[Extract - Python]
     B --> C[Transform - Python]
-    C --> D[Load - SQL Database]
-    D --> E[API - FastAPI]
+    C --> D[Load]
     D --> F[BI - Power BI]
 📦 Fontes de Dados
-Vendas (CSV): data, produto, quantidade, valor, status, cliente
+Vendas (CSV): data, produto, produto id, quantidade, valor, status, cliente id, cliente nome
 
-Produtos (CSV/API): id, categoria, preço base, custo
+Produtos (CSV): id, nome, categoria, preço base, custo
 
-Clientes (CSV): id, cidade, estado, data de cadastro
+Clientes (CSV): id, nome, cidade, estado, data de cadastro
 
 👉 Dados propositalmente sujos para simular cenários reais.
 
-🧪 Regras de Negócio (Se possivel)
+🧪 Regras de Negócio (Apicadas propositalmente no Power Query)
 Receita = quantidade × valor
-
-Ignorar vendas canceladas
 
 Ticket médio por cliente
 
 Receita por estado
-
-Classificação de clientes (novo, recorrente)
-
-Identificação de vendas fora do padrão
 
 📂 Estrutura do Projeto
 Código
@@ -61,10 +52,6 @@ Pipeline-de-Dados/
 │   ├── extract.py    # Extração
 │   ├── transform.py  # Transformação
 │   ├── load.py       # Carga no banco
-├── api/
-│   └── main.py       # Endpoints FastAPI
-├── sql/
-│   └── schema.sql    # Modelagem do banco
 ├── dashboard/
 │   └── powerbi.pbix  # Dashboard Power BI
 ├── logs/             # Logs de execução
@@ -74,21 +61,11 @@ Pipeline-de-Dados/
 ⚙️ Requisitos
 Python 3.10+
 
-Bibliotecas: pandas, sqlalchemy, fastapi, uvicorn
-
-Banco de dados: PostgreSQL ou MySQL
-
-Power BI Desktop (para visualização)
-
-Git (versionamento)
-
-Docker (opcional, para ambiente isolado)
-
 🚀 Instalação e Execução
 bash
 # Clonar repositório
 git clone https://github.com/seuusuario/pipeline-dados-empresa.git
-cd pipeline-dados-empresa
+cd Pipeline-de-Dados
 
 # Instalar dependências
 pip install -r requirements.txt
